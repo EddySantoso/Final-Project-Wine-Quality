@@ -18,6 +18,12 @@ Ini merupakan kandungan yang ada di suatu wine :
 - Alcohol : Kadar alkohol
 
 ## Lets Predict
+![](Images/predik.png)
+
+## Result
+![](Images/result.png)
+
+
 
 
 
